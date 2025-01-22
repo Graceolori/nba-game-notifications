@@ -13,7 +13,6 @@ This project is an alert system that sends real-time NBA game day score notifica
 
 ## **Prerequisites**
 - Free account with subscription and API Key at [sportsdata.io](https://sportsdata.io/)
-- Personal AWS account with basic understanding of AWS and Python
 
 ---
 
@@ -128,9 +127,3 @@ game-day-notifications/
 2. Securing AWS services with least privilege IAM policies.
 3. Automating workflows using EventBridge.
 4. Integrating external APIs into cloud-based workflows.
-
-
-### **Future Enhancements**
-1. Add NFL score alerts for extended functionality.
-2. Store user preferences (teams, game types) in DynamoDB for personalized alerts.
-3. Implement a web UI
